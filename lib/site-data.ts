@@ -119,6 +119,67 @@ export const siteData: SiteData = {
         href: "mailto:sanjoy1.datta1@gmail.com",
       },
     ],
+    ctaText: "Follow my work",
+    avatarUrl: "https://avatars.githubusercontent.com/u/77421859?v=4",
+    heroMediaUrl: null,
+    availability: "Shipping products · Learning in public",
+    metaDescription: "iOS founder and student who ships fast, learns in public, and builds mobile-first products that spread organically.",
+    footerTagline: "Shipping products that solve real problems",
+    stats: [
+      {
+        label: "GITHUB REPOS",
+        value: "25",
+      },
+      {
+        label: "COUNTRIES",
+        value: "22",
+      },
+      {
+        label: "APP IMPRESSIONS",
+        value: "50k",
+      },
+      {
+        label: "UPTIME",
+        value: "99.9%",
+      },
+    ],
+    metaTitle: "Sanjoy Datta — iOS founder",
+    location: null,
+    gallery: [],
+    skills: [
+      {
+        category: "Stack",
+        items: [
+          "Kotlin",
+          "Python",
+          "JavaScript",
+          "TypeScript",
+          "Android",
+          "React",
+        ],
+      },
+      {
+        category: "What I do well",
+        items: [
+          "Shipping fast",
+          "Learning in public",
+          "Agentic AI",
+          "Mobile-first design",
+          "Problem solving",
+          "Systems thinking",
+        ],
+      },
+      {
+        category: "Tools",
+        items: [
+          "Android Studio",
+          "Git",
+          "Alpaca API",
+          "ML frameworks",
+          "Play Console",
+        ],
+      },
+    ],
     projects: [
       {
         title: "EzParkk",
@@ -181,70 +242,9 @@ export const siteData: SiteData = {
         mediaUrl: null,
       },
     ],
-    ctaText: "Follow my work",
-    avatarUrl: "https://avatars.githubusercontent.com/u/77421859?v=4",
     bio: "I'm an Android founder and student who builds products that solve real inefficiencies. I shipped EzParkk from concept to Play Store in under 20 weeks—it hit 50k impressions in 3 weeks and trended #1 on the UCI subreddit after spreading organically through a post I didn't even make. I focus on Android-first experiences and AI that feels proactive without interrupting you, like SunnyD NoteTaker, where the hardest challenge was making it helpful without being annoying.\n\nI learn in public, iterate fast, and don't wait for permission. I've published apps across 22 countries, built trading bots that beat SPY by 300% over 8 years, and I'm always working on the next thing. If it solves a real problem and I can ship it, I'm in.",
-    heroMediaUrl: null,
-    availability: "Shipping products · Learning in public",
-    metaDescription: "iOS founder and student who ships fast, learns in public, and builds mobile-first products that spread organically.",
-    skills: [
-      {
-        category: "Stack",
-        items: [
-          "Kotlin",
-          "Python",
-          "JavaScript",
-          "TypeScript",
-          "Android",
-          "React",
-        ],
-      },
-      {
-        category: "What I do well",
-        items: [
-          "Shipping fast",
-          "Learning in public",
-          "Agentic AI",
-          "Mobile-first design",
-          "Problem solving",
-          "Systems thinking",
-        ],
-      },
-      {
-        category: "Tools",
-        items: [
-          "Android Studio",
-          "Git",
-          "Alpaca API",
-          "ML frameworks",
-          "Play Console",
-        ],
-      },
-    ],
-    footerTagline: "Shipping products that solve real problems",
-    stats: [
-      {
-        label: "GITHUB REPOS",
-        value: "25",
-      },
-      {
-        label: "COUNTRIES",
-        value: "22",
-      },
-      {
-        label: "APP IMPRESSIONS",
-        value: "50k",
-      },
-      {
-        label: "UPTIME",
-        value: "99.9%",
-      },
-    ],
-    metaTitle: "Sanjoy Datta — iOS founder",
-    location: null,
-    subheadline: "Building Android-first products that spread organically and AI tools that stay out of your way.",
-    gallery: [],
     headline: "android builder & founder",
+    subheadline: "Building Android-first products that spread organically and AI tools that stay out of your way.",
     ctaEmailEnc: "emh1cXaAODVraHt7aDhHbnRocHM1anZ0",
   },
 }
