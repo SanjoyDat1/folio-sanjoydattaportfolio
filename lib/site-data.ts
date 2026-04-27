@@ -243,8 +243,8 @@ export const siteData: SiteData = {
       },
     ],
     bio: "I'm an Android founder and student who builds products that solve real inefficiencies. I shipped EzParkk from concept to Play Store in under 20 weeks—it hit 50k impressions in 3 weeks and trended #1 on the UCI subreddit after spreading organically through a post I didn't even make. I focus on Android-first experiences and AI that feels proactive without interrupting you, like SunnyD NoteTaker, where the hardest challenge was making it helpful without being annoying.\n\nI learn in public, iterate fast, and don't wait for permission. I've published apps across 22 countries, built trading bots that beat SPY by 300% over 8 years, and I'm always working on the next thing. If it solves a real problem and I can ship it, I'm in.",
-    headline: "iOS builder & founder",
     subheadline: "Building Android-first products that spread organically and AI tools that stay out of your way.",
+    headline: "iOS builder & founder",
     ctaEmailEnc: "emh1cXaAODVraHt7aDhHbnRocHM1anZ0",
   },
 }
